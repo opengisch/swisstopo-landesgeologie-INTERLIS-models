@@ -1,0 +1,1 @@
+# swisstopo-landesgeologie-INTERLIS-models
